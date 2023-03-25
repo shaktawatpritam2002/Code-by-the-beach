@@ -11,7 +11,6 @@
 
 
   <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
 
   <link
@@ -55,9 +54,9 @@
       <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
         <div class="col-xl-6 col-lg-8">
           <br>
-          <h1>FIND / RENT PARKING SPOTS<span></span></h1>
+          <h1><span>Park Anywhere</span></h1>
 
-          <h2>Find parking spot beforehand and save time</h2>
+          <h2>Don't worry about your vehicle. We are here for that</h2>
 
         </div>
       </div>
@@ -65,11 +64,11 @@
         <div class="col-xl-20 col-md-10">
 
 
-          <h3><a href="">RENT / FIND</a></h3>
+          <h3><a href="">RENT or FIND Parking Space</a></h3>
           <div class="container">
             <div class="row">
               <div class="col-lg-10 col-xl-7 mx-auto">
-                <h3 style="color: rgb(231, 233, 234)">ParkYaha</h3>
+                <h3 style="color: rgb(231, 233, 234)"><span>Parking Buddy</span> </h3>
                 <p class="text-muted mb-4"></p>
                 <form action="card/card.php" method="POST">
                   <div class="form-group mb-3">
@@ -139,27 +138,7 @@
       </div>
     </section><!-- End About Section -->
 
-    <!--  
-    <section id="clients" class="clients">
-      <div class="container" data-aos="zoom-in">
-
-        <div class="clients-slider swiper">
-          <div class="swiper-wrapper align-items-center">
-            <div class="swiper-slide"><img src="assets/img/clients/client-1.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-2.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-3.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-4.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-5.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-6.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-7.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-8.png" class="img-fluid" alt=""></div>
-          </div>
-          <div class="swiper-pagination"></div>
-        </div>
-
-      </div>
-    </section> -->
-
+    
     <!-- ======= Features Section ======= -->
     <section id="features" class="features">
       <div class="container" data-aos="fade-up">
@@ -215,15 +194,6 @@
           </div>
 
 
-
-          <!--  <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4><a href="">EV Charging Space</a></h4>
-              <p>optional</p>
-            </div>
-          </div> -->
-
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-world"></i></div>
@@ -248,13 +218,7 @@
             </div>
           </div>
 
-          <!--   <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-arch"></i></div>
-              <h4><a href="">Divera don</a></h4>
-              <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
-            </div>
-          </div> -->
+          
 
         </div>
 
@@ -275,7 +239,7 @@
                 <h4>College Student</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Efficient and hassle-free parking experience."
+                  Efficient and hassle-free parking experience.Safe place to park your vehicle."
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -307,31 +271,6 @@
               </div>
             </div><!-- End testimonial item -->
 
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                <h3>Ishita Jain</h3>
-                <h4>College Student</h4>
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Good app.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                <h3>Manav Verma</h3>
-                <h4>College Student</h4>
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                 My favourite app.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End testimonial item -->
           </div>
           <div class="swiper-pagination"></div>
         </div>
@@ -394,10 +333,10 @@
 
         <div class="text-center">
           <h3>Contact Us</h3>
-          <p> Email: <br>
-            Contact NO. :<br>
+          <p> Email: yourparkingbuddy1@gmail.com <br>
+            Contact NO. +91 9079009294:<br>
           </p>
-          <a class="cta-btn" href="#">Call To Action</a>
+          <a class="cta-btn" href="mailto:yourparkingbuddy1@gmail.com">Call To Action</a>
         </div>
 
       </div>
@@ -422,20 +361,20 @@
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
                 <h4>Location:</h4>
-                <p> S202 Lodhi Colony
-                  Delhi 122018, INDIA</p>
+                <p> 20, Madgaon
+                  Goa 403602, INDIA</p>
               </div>
 
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p>parkYaha@gmail.com</p>
+                <p>yourparkingbuddy1@gmail.com</p>
               </div>
 
               <div class="phone">
                 <i class="bi bi-phone"></i>
                 <h4>Call:</h4>
-                <p>91+ 1123456789</p>
+                <p>+91 9079009294</p>
               </div>
 
             </div>
@@ -487,12 +426,12 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="footer-info">
-              <h3>Gp<span>.</span></h3>
+              <h3>Prking Buddy<span>.</span></h3>
               <p>
-                  S202 Lodhi Colony <br>
-                  Delhi 122018, INDIA<br><br>
-                <strong>Phone:</strong> +1123456789<br>
-                <strong>Email:</strong> parkYaha@gmail.com<br>
+                  20, Madgaon <br>
+                  Goa 403602, INDIA<br><br>
+                <strong>Phone:</strong> +91 9079009294<br>
+                <strong>Email:</strong> yourparkingbuddy1@gmail.com<br>
               </p>
               <div class="social-links mt-3">
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -509,29 +448,23 @@
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Our Services</h4>
+            
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#"></a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#"></a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#"></a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#"></a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#"></a></li>
+              <li><a href="#"></a></li>
+              <li><a href="#"></a></li>
+              <li><a href="#"></a></li>
+              <li><a href="#"></a></li>
+              <li><a href="#"></a></li>
             </ul>
           </div>
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>Our Newsletter</h4>
-            <p>Register for this.</p>
-            <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
-            </form>
+            <img src="assets/img/Parking Buddy  Logo.png" class="img-fluid" alt="logo" height="280px" width
+            ="280px" >
 
           </div>
 
@@ -541,11 +474,11 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>Gp</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>Parking Buddy</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
 
-        Designed by <a href="">NOOB CODERS</a>
+        Designed by <a href="">BlackCaps</a>
       </div>
     </div>
   </footer><!-- End Footer -->

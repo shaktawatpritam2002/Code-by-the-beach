@@ -9,12 +9,9 @@
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">About Us</a></li>
           <li><a class="nav-link scrollto" href="#services">Find parking</a></li>
-          <li><a class="nav-link scrollto " href="#portfolio">Rent Space</a></li>
-          <li><a class="nav-link scrollto" href="#team"></a></li>
 
           <li><a class="nav-link scrollto" href="#contact">Contact Us</a></li>
           <li><a class="nav-link scrollto" href="signIn/logout.php">Log Out</a></li>
-          <li><a class="nav-link scrollto" href="card/myrentals.php">My rentals</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->

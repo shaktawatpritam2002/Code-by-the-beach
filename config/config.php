@@ -2,7 +2,7 @@
     $servername = "localhost";
     $username = "root";
     $password = "";
-    $database = "parkyaha";
+    $database = "yourparkingbuddy";
     //creating a connection
     $conn = mysqli_connect($servername , $username , $password , $database);
     if(!$conn){
