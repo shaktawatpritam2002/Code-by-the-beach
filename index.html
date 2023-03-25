@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Car Parking Property Rental</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<nav>
+		<div class="menu-icon">
+		  <i class="fa fa-bars"></i>
+		</div>
+		<ul class="menu">
+		  <li><a href="#">Home</a></li>
+		  <li><a href="#">About</a></li>
+		  <li><a href="#">Services</a></li>
+		  <li><a href="#">Contact</a></li>
+		  <li class="contact"><a href="tel:+123456789"><i class="fa fa-phone"></i></a></li>
+		  <li class="contact"><a href="mailto:info@example.com"><i class="fa fa-envelope"></i></a></li>
+		</ul>
+	  </nav>
+	  
+	<main>
+		<section id="welcome">
+			<div class="container">
+				<h2>Welcome to Our Car Parking Property Rental Site</h2>
+				<p>Find a perfect parking space for your car today.</p>
+			</div>
+		</section>
+
+		<section id="properties">
+			<div class="container">
+				<form id="vehicle-search-form">
+					<label for="date-input">Date:</label>
+					<input type="date" id="date-input" name="date">
+				  
+					<label for="locality-input">Locality:</label>
+					<input type="text" id="locality-input" name="locality">
+				  
+					<label for="time-input">Time:</label>
+					<input type="time" id="time-input" name="time">
+				  
+					<label for="vehicle-type-select">Vehicle Type:</label>
+					<select id="vehicle-type-select" name="vehicle-type">
+					  <option value="">-- Select Vehicle Type --</option>
+					  <option value="car">Car</option>
+					  <option value="truck">Truck</option>
+					  <option value="motorcycle">Motorcycle</option>
+					</select>
+				  
+					<button type="submit">Search</button>
+				  </form>
+			</div>
+		</section>
+	</main>
+
+	<footer>
+		<div class="container">
+			<p>&copy; 2023 Car Parking Property Rental. All rights reserved.</p>
+		</div>
+	</footer>
+</body>
+</html>
